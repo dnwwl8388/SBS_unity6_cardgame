@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\Sutda.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\Sutda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\Sutda.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\Sutda.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\Sutda.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\bin\Debug\net6.0\Sutda.exe
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\bin\Debug\net6.0\Sutda.deps.json
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\bin\Debug\net6.0\Sutda.runtimeconfig.json
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\bin\Debug\net6.0\Sutda.dll
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\bin\Debug\net6.0\Sutda.pdb
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\Sutda.dll
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\refint\Sutda.dll
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\Sutda.pdb
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\Sutda.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\SBS_unity6_cardgame\Sutda\Sutda\obj\Debug\net6.0\ref\Sutda.dll
